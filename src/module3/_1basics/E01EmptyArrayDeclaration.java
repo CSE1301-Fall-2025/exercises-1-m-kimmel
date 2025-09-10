@@ -5,6 +5,8 @@ public class E01EmptyArrayDeclaration {
 	//Exercise 1: Follow the instructions below
 	public static void main(String[] args) {
 		// Array example
+
+		
 		int[] highScores = new int[10];
 		// Add an array of 5 doubles called prices.
 
